@@ -1,0 +1,12 @@
+cffi
+setuptools_scm
+notebook
+immutables
+jupyterlab
+scikit-learn
+matplotlib
+requests
+qwikidata
+Pillow
+numpy
+pandas
